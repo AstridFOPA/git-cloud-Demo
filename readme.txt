@@ -1,2 +1,2 @@
- try to see what will happen if I change something in the file that I have already created on git
+create a new conflict to see conflict  try to see what will happen if I change something in the file that I have already created on git
  add a new line
