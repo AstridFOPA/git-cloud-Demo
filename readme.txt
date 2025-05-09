@@ -3,4 +3,5 @@ conflict from amster branch,  try to see what will happen if I change something 
 =======
 create a new conflict to see conflict  try to see what will happen if I change something in the file that I have already created on git
 >>>>>>> conflict-branch
- add a new line
+
+This is a test taht will cause a conflict .
